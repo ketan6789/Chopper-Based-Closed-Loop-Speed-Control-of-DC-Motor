@@ -1,3 +1,5 @@
+[![View Chopper-Based-Closed-Loop-Speed-Control-of-DC-Motor on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://in.mathworks.com/matlabcentral/fileexchange/180817-chopper-based-closed-loop-speed-control-of-dc-motor)
+
 # Closed-Loop DC Motor Control Using Four-Quadrant Chopper
 
 ![image](https://github.com/user-attachments/assets/3fd69160-a10f-4df1-9b06-246b574f9fe6)
